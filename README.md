@@ -1,0 +1,1 @@
+This program is a simple playlist manager that lets you add, remove, undo, redo, and view songs using an `ArrayList` for storage. It uses two `Stack`s (`undoStack` and `redoStack`) to keep track of past and future playlist states for undo/redo functionality.
